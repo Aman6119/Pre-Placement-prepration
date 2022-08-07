@@ -1,4 +1,4 @@
-# Pre-Placement-prepration
+# Pre-Placement-preparation
 # Pre-Placement-Module-2023
 
 - Name: Aman Pratap Singh
